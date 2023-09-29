@@ -28,3 +28,8 @@ With Dr. Luigi Perotti, I am investigating the effect that a small boat's asymme
 ### University of Florida
 ### Multiphase Reactive Flow Group
 With Dr. Ryan Houim, I investigated the use of Symbolic Regression to discover a sparse relationship for speed of sound in a compressible polydisperse granular phase
+
+### 2023-present
+### Wings Subsystem lead
+### Distributed Electric Propulsion -- Senior Design Project
+Our team of seven Mechanical & Aerospace Engineering seniors is designing, building, and flying a subscale Uncrewed Aerial Vehicle (UAV) using Distributed Electric Propulsion (DEP). I was elected to lead the development and manufacturing of the aircraft's wings, a process that has involved extensive computational modeling in Star CCM+ and XFLR5.
