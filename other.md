@@ -1,1 +1,8 @@
-Other content, TBD
+---
+title: "Other"
+permalink: "/other/"
+layout: page
+---
+
+
+## News
