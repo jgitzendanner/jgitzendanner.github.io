@@ -23,7 +23,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "/other.md", title: "Other"}
   - {file: "/contact.md", title: "Contact"}
   - {file: "/JGitzendanner_CV.pdf", title: "CV"}
-  - {file: "/blog.md", title: "Blog"}
+  
   
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
