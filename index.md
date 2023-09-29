@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Blog"
+title: "Jonathan Gitzendanner"
 ---
 
 I am a 4th year [Aerospace Engineering](https://mae.ucf.edu/) undergraduate student in the [Burnett Honors College](https://honors.ucf.edu/) at the University of Central Florida
