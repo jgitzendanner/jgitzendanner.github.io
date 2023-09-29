@@ -18,7 +18,12 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: Home Change, icon: home}
-  - {file: "README.md", title: About me, icon: address-card}
+  - {file: "README.md", title: About, icon: user}
+  - {file: "/research.md", title: "Research"}
+  - {file: "/other.md", title: "Other"}
+  - {file: "/contact.md", title: "Contact", icon: address-card}
+  - {file: "/JGitzendanner_CV", title "CV"}
+  
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:jonathan.gitzendanner@ucf.edu"}
