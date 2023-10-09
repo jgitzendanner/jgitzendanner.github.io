@@ -3,7 +3,7 @@ title: "About"
 permalink: "/about/"
 layout: page
 ---
-![celeste](Celeste.jpg)
+![celeste](Celeste.JPEG)
 
 ## Timeline
 
