@@ -2,7 +2,7 @@
 layout: page
 title: "Jonathan Gitzendanner"
 ---
-
+![hiking on CD](hikingOnCD.jpg)
 I am a 4th year [Aerospace Engineering](https://mae.ucf.edu/) undergraduate student in the [Burnett Honors College](https://honors.ucf.edu/) at the University of Central Florida
 
 My background focuses on multiphase fluid dynamics with experience in hydrodynamic modeling and reactive compressible granular flows.
