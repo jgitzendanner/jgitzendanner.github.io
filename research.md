@@ -11,4 +11,5 @@ My primary project for the past two years has revolved around understanding the 
 
 ### Compressible Polydisperse Granular Flows
 This research was conducted over the summer of 2023 with UF's Multiphase Reactive Flow Group. The goal was to find an algebraic equation to approximate compression wave speed for each granular phase in a polydisperse eulerian-eulerian multiphase flow. I developed a shallow neural network to find a sparse function relating initial conditions to the wave speed.
+
 ![standing with kayak](standingWithKayak.jpg)
