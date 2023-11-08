@@ -21,8 +21,6 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md", title: "About"}
   - {file: "research.md", title: "Research"}
   - {file: "other.md", title: "Other"}
-  - {file: "contact.md", title: "Contact"}
-  - {file: "JGitzendanner_CV.pdf", title: "CV"}
   
   
 
