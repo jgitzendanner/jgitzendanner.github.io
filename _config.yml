@@ -26,7 +26,6 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:jonathan.gitzendanner@ucf.edu"}
-  - {title: Github, icon: github, url: "https://github.com/jgitzendanner"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/JGitzendanner"}
 
 comments:
