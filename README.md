@@ -7,7 +7,16 @@ layout: page
 
 ## Timeline
 
-### 2023-present
+### 2024-Present
+### PhD Student, University of Oregon
+### Electromagnetic Signatures of Compressible Granular Jets
+Using numerical methods and shock tube experiements to understand the electromagnetic fields resulting from charged particles in a high-speed flow. These flows are common in particularly explosive volcanic eruptions such as the 2022 Hunga-Tonga eruption.
+
+### 2024
+### Navy Research Enterprise Internship Program
+### Hypersonic Aerothermal Analysis
+
+### 2023-2024
 ### Wings Subsystem lead
 ### Distributed Electric Propulsion -- Senior Design Project
 Our team of seven Mechanical & Aerospace Engineering seniors is designing, building, and flying a subscale Uncrewed Aerial Vehicle (UAV) using Distributed Electric Propulsion (DEP). I was elected to lead the development and manufacturing of the aircraft's wings, a process that has involved extensive computational modeling in Star CCM+ and XFLR5.
