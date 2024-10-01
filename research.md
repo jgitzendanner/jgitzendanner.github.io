@@ -6,6 +6,9 @@ layout: page
 
 
 ## Projects
+### Electromagnetic Signatures of Compressible Granular Flows
+My PhD project at the University of Oregon is focused on understanding the jet region in explosive volcanic eruptions. Particularly, we are interested in estimating sound speed of the granular phases during an eruption as well as the electromagnetic fields created by the charged particles within the jet.
+
 ### Kayak Polo
 My primary project for the past two years has revolved around understanding the flow around small boats and vessels and using that to design a better polo kayak. Believe it or not, Kayak Polo is a real sport! It is also a fantastic case study for a much wider range of vessels due to the requirements it places on the equipment. We are currently studying how adjusting the asymmetry of a kayak in the streamwise direction changes it's planing characteristics.
 
