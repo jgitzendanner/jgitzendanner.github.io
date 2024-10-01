@@ -1,6 +1,6 @@
 title: "Jonathan Gitzendanner"
 author: "Jonathan Gitzendanner"
-description: "University of Central Florida"
+description: "University of Oregon"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -24,7 +24,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:jonathan.gitzendanner@ucf.edu"}
+  - {title: Mail, icon: envelope, url: "mailto:jgitzend@uoregon.edu"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/JGitzendanner"}
 
 comments:
